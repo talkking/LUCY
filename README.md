@@ -1,6 +1,8 @@
 # LUCY
 LUCY: Linguistic Understanding and Control Yielding Early Stage of Her
 
+The codes will be released soon!
+
 ## Demo of Emotion Control
 https://github.com/user-attachments/assets/80120730-a37b-4ed5-8da6-7584156a6a67
 
