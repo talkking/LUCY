@@ -1,7 +1,7 @@
 # LUCY: Linguistic Understanding and Control Yielding Early Stage of Her
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/cc367b87-3e23-4f3d-bea7-936b05664f26" width="100%" height="100%">
+    <img src="https://github.com/talkking/LUCY/blob/main/3facd97badd54a2380bd1466890ac949_2.png" width="40%" height="20%">
 </p>
 
 <p align="center">
