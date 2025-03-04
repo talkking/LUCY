@@ -10,10 +10,11 @@
     <a href="https://huggingface.co/spaces/shenyunhang/Long-VITA" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-ffc107?color=ffc107&logoColor=white" /></a>
  </p>
 
-The codes will be released soon! Stay tuned!
+
 
 ## Demo of Emotion Control
-https://github.com/user-attachments/assets/80120730-a37b-4ed5-8da6-7584156a6a67
+<video src="https://github.com/user-attachments/assets/80120730-a37b-4ed5-8da6-7584156a6a67" width="200" controls></video>
+
 
 ## Demo of Function Calls
 https://github.com/user-attachments/assets/1826bad6-207b-426d-8a99-ce7d684e20f2
