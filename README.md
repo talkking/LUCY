@@ -11,6 +11,10 @@
  </p>
 
 
+## :fire: News
+* **`2025.03.05`** 🌟 We have released the code and model checkpoint.
+* **`2025.01.27`** 🌟 We have published the paper on LUCY, an end-to-end fully duplex chatbot that supports voice emotion control, tool invocation, and natural conversation.
+
 
 ## Demo of Emotion Control
 <video src="https://github.com/user-attachments/assets/80120730-a37b-4ed5-8da6-7584156a6a67" width="200" controls></video>
