@@ -13,12 +13,30 @@
 
 ## :fire: News
 * **`2025.03.05`** 🌟 We have released the code and model checkpoint.
-* **`2025.01.27`** 🌟 We have published the paper on LUCY, an end-to-end fully duplex chatbot that supports voice emotion control, tool invocation, and natural conversation.
+* **`2025.01.27`** 🌟 We are very proud to launch **LUCY**, an end-to-end fully duplex chatbot that supports voice emotion control, tool call, and natural conversation.
+
+## 👀 LUCY Overview
+We are excited to present **LUCY**, which incorporates a series of advancements:
+1. **Semantic and acoustic emotion control**
+2. **Real-time tool call**
+3. **Human-like natural conversation**
+
+## 📈 Experimental Results
+- **LUCY outperforms professional speech models on ASR benchmarks.**
+    <p align="center">
+        <img src="./asset/vita_mllm_performance.png" width="100%" height="100%">
+    </p>
+- **Emotion Control**
+- **Tool Call**
+- **Spoken QA**
 
 
+
+# Demo
 ## Demo of Emotion Control
-<video src="https://github.com/user-attachments/assets/80120730-a37b-4ed5-8da6-7584156a6a67" width="200" controls></video>
-
+<p align="center">
+    <video src="https://github.com/user-attachments/assets/80120730-a37b-4ed5-8da6-7584156a6a67" width="50%" height="50%">
+</p>
 
 ## Demo of Function Calls
 https://github.com/user-attachments/assets/1826bad6-207b-426d-8a99-ce7d684e20f2
