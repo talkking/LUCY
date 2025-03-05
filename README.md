@@ -87,7 +87,7 @@ pip install flash-attn --no-build-isolation
 ### Training
 #### Stage 1 
 - Aligned audio encoder is available [here](https://huggingface.co/VITA-MLLM/LUCY-Audio-Encoder-110kh).
-- Train your own Aligned audio encoder, such as **Whisper** Encoder.
+- Train your own aligned audio encoder, such as **Whisper** Encoder.
     ```
     bash run_scripts/s1.sh
     ```
